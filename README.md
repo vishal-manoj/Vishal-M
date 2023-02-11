@@ -1,8 +1,7 @@
 # About
 Hai there, I am Vishal M.\
 \
-A tech enthusiast, who believes in the power of technology in solving various complex problems and is insanely passionate in building AI models and coducting data analysis and thereby turn the data into actionable insights.
-
+A highly skilled finance admirer with an exceptional analytical mindset and a strong proficiency in Python and AI. My background in finance, combined with my expertise in these technologies allows me to develop innovative solutions to solve complex financial problems. I am eager to work in a dynamic and challenging environment that will allow me to push my boundaries further.
 # Projects:
 
 ###  Financial Analysis Software
