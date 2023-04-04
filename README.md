@@ -20,3 +20,4 @@ The model has been trained using the data taken from Kaggle.\
 * Microsoft Excel
 * Python Programming Language
 * Data Science and Machine Learning
+* Problem Solving
